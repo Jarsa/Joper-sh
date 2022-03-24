@@ -7,3 +7,8 @@
 	path = stock-logistics-workflow
 	url = git@github.com:Jarsa/stock-logistics-workflow.git
 	branch = 15.0
+
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:Jarsa/server-backend.git
+	branch = 15.0
