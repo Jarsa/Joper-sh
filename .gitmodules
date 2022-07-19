@@ -22,3 +22,8 @@
 	path = sale-workflow
 	url = git@github.com:Jarsa/sale-workflow.git
 	branch = 15.0
+
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = git@github.com:Jarsa/sale-reporting.git
+	branch = 15.0
