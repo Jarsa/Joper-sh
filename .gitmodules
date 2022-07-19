@@ -27,3 +27,8 @@
 	path = sale-reporting
 	url = git@github.com:Jarsa/sale-reporting.git
 	branch = 15.0
+
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:Jarsa/reporting-engine.git
+	branch = 15.0
