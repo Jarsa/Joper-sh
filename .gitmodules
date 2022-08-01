@@ -37,3 +37,6 @@
 	path = account-invoice-reporting
 	url = git@github.com:Jarsa/account-invoice-reporting.git
 	branch = 15.0
+[submodule "joper"]
+	path = joper
+	url = git@git.vauxoo.com:jarsa/joper.git
