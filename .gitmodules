@@ -34,7 +34,7 @@
 	branch = 15.0
 [submodule "joper"]
 	path = joper
-	url = git@git.jarsa.com:jarsa/joper.git
+	url = git@git.jarsa.com:Jarsa-dev/joper.git
 	branch = 15.0
 
 [submodule "stock-logistics-reporting"]
